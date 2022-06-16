@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fododump/static/css/main.65f3a1eb.css",
+    "main.js": "/fododump/static/js/main.82d064e8.js",
+    "index.html": "/fododump/index.html",
+    "main.65f3a1eb.css.map": "/fododump/static/css/main.65f3a1eb.css.map",
+    "main.82d064e8.js.map": "/fododump/static/js/main.82d064e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f3a1eb.css",
+    "static/js/main.82d064e8.js"
+  ]
+}
